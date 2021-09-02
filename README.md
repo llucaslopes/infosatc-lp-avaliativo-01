@@ -1,4 +1,4 @@
-<img align="top" width="400" height="400" src="https://www1.satc.edu.br/portais/alunos/assets/img/logoSatc.png">
+<img align="top" width="200" height="200" src="https://www1.satc.edu.br/portais/alunos/assets/img/logoSatc.png">
 
 
 Curso: Informatica
